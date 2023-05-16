@@ -20,7 +20,7 @@ const FlightLaunches = (props) => {
         }).toString()
     })
   }
-  
+
   const onFormSubmitHandler = (queryParams : FlightQuery) => {
     setQueryParams(queryParams);
   }
