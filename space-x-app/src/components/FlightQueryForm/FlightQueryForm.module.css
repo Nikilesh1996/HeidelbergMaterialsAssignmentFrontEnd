@@ -1,0 +1,17 @@
+.form-input {
+    min-height: 7em;
+    padding: 1em;
+}
+
+.form-input label {
+    display: block;
+    color: darkgray;
+    margin-bottom: 0.3em;
+}
+
+.form-input.MuiGrid-item {
+    display: flex;
+    flex-direction: column;
+    padding: 0em;
+    align-items: flex-start;
+}
